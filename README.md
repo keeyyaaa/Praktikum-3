@@ -65,4 +65,4 @@ print("Bilangan terbesar adalah :", MAX)  # Mencetak nilai MAX setelah loop sele
 Setelah loop berhenti (ketika pengguna memasukkan 0), program mencetak bilangan terbesar yang telah disimpan dalam variabel `MAX`.
 
 ## hasil kode program 
-
+![foto](https://github.com/keeyyaaa/flowchart/blob/bd15ed17fc7d7d662e2d86405bc86cd7b17e967f/Screenshot%202024-10-22%20122916.png)
