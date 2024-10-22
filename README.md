@@ -13,7 +13,7 @@ Mata Kuliah: Bahasa Pemograman
 Program ini menentukan bilangan terbesar dari serangkaian bilangan yang diinputkan hingga input 0. Program ini mneggunakan loop `while` dan kondisi `if` untuk memperbarui nilai terbesar yang ditemukan.
 
 ## flowchart program
-![foto](https://github.com/keeyyaaa/flowchart/blob/0e1fd9bd025855a298e9f706d526b89989e9fdee/flowchart.jpg)
+![foto](https://github.com/keeyyaaa/flowchart/blob/bd15ed17fc7d7d662e2d86405bc86cd7b17e967f/flowchart%20mj.jpg)
 
 ## kode program 
 ```python
@@ -63,3 +63,6 @@ print("Bilangan terbesar adalah :", MAX)  # Mencetak nilai MAX setelah loop sele
 
 ```
 Setelah loop berhenti (ketika pengguna memasukkan 0), program mencetak bilangan terbesar yang telah disimpan dalam variabel `MAX`.
+
+## hasil kode program 
+
